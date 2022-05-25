@@ -2,7 +2,7 @@
 Lily go Badusb simple Payloads Examples
 <br>
 <br><center>
-<img src="lily_go.jpeg" alt="lily go" width="200"/>
+<img src="lily_go.jpeg" alt="lily go" width="400"/>
 </center>
 <br>
 ## [CMD](cmd)
